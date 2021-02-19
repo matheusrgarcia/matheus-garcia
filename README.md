@@ -2,7 +2,7 @@
    <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=matheus-garcian&count_private=true&show_icons=true&hide_title=true&hide=stars" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=matheus-garcia&count_private=true&show_icons=true&hide_title=true&hide=stars" />
 
 <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=matheus-garcia&theme=flat&no-frame=true&margin-w=30" />
